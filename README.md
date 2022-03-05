@@ -43,7 +43,7 @@ You don't havetoever use `eject`. The curated feature set is suitable for small 
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+href learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
@@ -55,7 +55,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Making aProgressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-NavLink-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-NavLink-progressive-web-app)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
 
@@ -67,4 +67,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` failstominify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-href-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-href-minify)
